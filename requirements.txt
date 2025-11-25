@@ -1,0 +1,26 @@
+# === Core Python Libraries ===
+pandas==2.2.2
+numpy==1.26.4
+python-dateutil==2.9.0
+
+# === Streamlit Dashboard ===
+streamlit==1.37.0
+plotly==5.23.0
+
+# === Text Processing / NLP ===
+nltk==3.9.1
+regex==2024.5.10
+
+# === Excel / Data I/O ===
+openpyxl==3.1.2
+xlsxwriter==3.2.0
+
+# === Environment Handling ===
+python-dotenv==1.0.1
+
+# === Utility / Automation ===
+requests==2.32.3
+tqdm==4.66.4
+
+# === Optional (only if using PDF or export features later) ===
+reportlab==4.1.0
